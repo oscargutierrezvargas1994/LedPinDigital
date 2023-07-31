@@ -10,7 +10,7 @@
 ![Sketch](https://github.com/oscargutierrezvargas1994/LedPinDigital/blob/main/Untitled%20Sketch%202_bb.png)
 
 ## Instrucciones
-1. Descargar el archivo zip y descomprimir. 
+1. Descargar el [archivo zip](https://github.com/oscargutierrezvargas1994/LedPinDigital/archive/refs/heads/main.zip) y descomprimir. 
 2. Abrir el archivo __encenderPinDigital.ino__ con Arduino IDE
 3. Seleccionar el puerto con la placa
 4. Verificar codigo
